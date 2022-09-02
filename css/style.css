@@ -360,6 +360,12 @@ ul li a {
   color: #007bff;
 }
 
+.footer-img img {
+  width: 100%;
+  height: auto;
+  padding: 20px 0;
+}
+
 .copyright {
   text-align: center;
   color: #2e367da1;
